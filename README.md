@@ -2,8 +2,6 @@
 
 **Hedef tespit ve takip sistemi için masaüstü kontrol arayüzü.** Kamera görüntüsünü gerçek zamanlı işler, hedefleri renklerine göre (kırmızı / mavi) ayırır ve sistemi farklı otonomi seviyelerinde yönetir.
 
-> Kaynak kod private. Bu depo projenin tanıtım sayfasıdır.
-
 ## Özellikler
 
 - **Çalışma modları:** Manuel, Yarı Otonom, Tam Otonom, Ayarlanabilir
